@@ -1,7 +1,6 @@
 # 1. Financial Analysis using Reinforcement Learning (GME Data)
 
-![InShot_20231213_170138561](https://github.com/VK-Ant/ReinforcementLearning_Exploration/assets/75832198/53fc8fd3-295d-4a52-a89a-ceca439ab98a)
-
+![InShot_20231213_170138561(1)](https://github.com/VK-Ant/ReinforcementLearning_Exploration/assets/75832198/abc497d3-37ff-4da0-9325-8c310a3d3cad)
 
 ```bash
 
