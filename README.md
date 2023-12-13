@@ -13,6 +13,6 @@ pip3 install -r requirements.txt
 python Financial_analysis.py
 
 ```
-
+credit: https://youtu.be/D9sU1hLT0QY?si=S5UU1su5Ez1YSfIs
 
 # **🤗Happy Learning! All about Exploration......🤗**
