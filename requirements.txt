@@ -1,5 +1,5 @@
 tensorflow-gpu==1.15.0 
 tensorflow==1.15.0 
-stable-baselines 
+#stable-baselines 
 gym-anytrading 
 gym==0.15.7

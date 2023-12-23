@@ -1,0 +1,2 @@
+stable_baselines3[extra]
+gym==0.15.7
