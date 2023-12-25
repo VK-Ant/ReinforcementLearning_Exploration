@@ -9,7 +9,7 @@ print("ALL packages set")
 # Load the environment
 env = gym.make("LunarLander-v2", render_mode="rgb_array")
 
-episodes = 5
+episodes = 20
 
 for episode in range(1, episodes + 1):
     state = env.reset()
