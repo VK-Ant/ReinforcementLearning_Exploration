@@ -3,13 +3,15 @@ from stable_baselines3 import PPO
 from stable_baselines3.common.vec_env import DummyVecEnv
 from stable_baselines3.common.evaluation import evaluate_policy
 import imageio
+import os
 
 print("ALL packages set")
 
 # Load the environment
 env = gym.make("BipedalWalker-v3", hardcore=True,render_mode="rgb_array")
-'''
-episodes = 5
+#Test the environment and save the episodics
+
+episodes = 10
 
 for episode in range(1, episodes + 1):
     state = env.reset()
@@ -30,7 +32,3 @@ for episode in range(1, episodes + 1):
 
     print("Episode:{}, Score: {}".format(episode, score))
 
-env.close()
-'''
-
-print(env.action_space.sample())
